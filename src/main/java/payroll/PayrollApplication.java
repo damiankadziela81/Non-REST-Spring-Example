@@ -11,3 +11,5 @@ public class PayrollApplication {
 	}
 
 }
+
+//from https://spring.io/guides/tutorials/rest/
